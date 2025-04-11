@@ -1,0 +1,78 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+
+    background-color: #ffffff;
+    color: #333;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .container2 {
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    color: #d82ca4;
+  }
+  
+  .nav {
+    text-align: center;
+    background-color: #ffcc00;
+    padding: 10px;
+    border-radius: 5px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .nav a {
+    color: #333;
+    font-weight: bold;
+    margin: 0 15px;
+  }
+  
+  table{
+    margin: auto;
+  }
+
+  .table {
+    margin: auto;
+    width: 80%;
+  }
+  
+  .table th {
+    padding: 10px;
+  
+    background-color: #fc8c86;
+    color: #ffffff;
+  }
+  .table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .fav_table {
+    border: 1px solid #333;
+    background-color: #fff;
+    background-image: url("./assets/form_bg.jpg");
+    padding: 20px;
+    width: 40%;
+    margin: 20px auto;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    margin-top: 20px;
+  }
+  
+  footer a {
+    color: #ffcc00;
+  }
+  
